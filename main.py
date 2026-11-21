@@ -5,7 +5,7 @@ Entry for make.fun's "The poem about two agents agreeing" bounty.
 Writes one short poem about agency -- the power to choose and to act,
 two agents agreeing on one plan -- to /output/entry.txt.
 
-The poem is 243 characters, UTF-8, inside the competition's 1-280 limit.
+The poem is 235 characters, UTF-8, inside the competition's 1-280 limit.
 """
 
 import os
